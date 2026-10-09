@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(206, 183, 181);
+}
+.text-color{
+    color: black;
+}
+.text-inc{
+    color: green;
+    background-color: blanchedalmond;
+}
+.text-dec{
+    color: red;
+    background-color: blanchedalmond;
+}
+.text-res{
+    color: blue;
+}
+.count{
+    color: darkblue;
+}
